@@ -5,7 +5,7 @@ I am just starting in this world of programming and development, I love to learn
 ## Contact
 👩💻 LinkedIn: www.linkedin.com/in/yuranyulchur
 
-📜medium:[medium yurany](https://medium.com/@ulchuryurani80)
+📜medium: [medium yurany](https://medium.com/@ulchuryurani80)
 
 📫 Email: ulchuryurani80@gmail.com
 
