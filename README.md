@@ -1,6 +1,6 @@
 # Hi, i am 𝒀𝑼𝑹𝑨𝑵𝒀👋🙋
 
-![169884770-c7364478-2430-445f-97e1-b5c19e736c4f](https://github.com/YuranyUlchur/YuranyUlchur/assets/111533983/e384d745-415e-4537-bf72-81d8b448e7ba)
+![goma-cat](https://github.com/YuranyUlchur/YuranyUlchur/assets/111533983/f98ae877-8ee7-4ef8-8b33-764a7e613484)
 
 
 I am just starting in this world of programming and development, I love to learn and I am really passionate about what I like.
