@@ -15,8 +15,9 @@
 
 🤖 Discord: Yurany#2073
 
-
-
+Languages 💬
+https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/css.svg
+https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/c.svg
 
 
 ![img](https://github.com/YuranyUlchur/YuranyUlchur/assets/111533983/51f69ea1-9ec3-45dd-91f4-9665883ccd37)
