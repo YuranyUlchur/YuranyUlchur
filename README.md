@@ -7,7 +7,8 @@
 
 
 
-#### *I am just starting in this world of programming and development👩🏽‍💻 I love to learn and I am really passionate about what I like.💖*
+#### *I am just starting in this world of programming and development👩🏽‍💻
+  I love to learn and I am really passionate about what I like.💖*
 ## Contact📩
 👩💻 LinkedIn: www.linkedin.com/in/yuranyulchur
 
@@ -16,4 +17,6 @@
 📫 Email: ulchuryurani80@gmail.com
 
 🤖 Discord: Yurany#2073
+  
+  
 </div>
