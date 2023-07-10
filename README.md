@@ -10,14 +10,11 @@
 #### I am just starting in this world of programming and development👩🏽‍💻
   I love to learn and I am really passionate about what I like.💖
 ## Contact📩
-👩💻 LinkedIn: www.linkedin.com/in/yuranyulchur
 
-📜medium: [medium yurany](https://medium.com/@ulchuryurani80)
+[![Twitter]([https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YuranyUlchur_](https://twitter.com/YuranyUlchur))
+[![Discord]([https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/314901228301844491](https://discord.com/users/758403009087799348))
+[![LinkedIn]([https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipevc](https://www.linkedin.com/in/yuranyulchur/))
 
-📫 Email: ulchuryurani80@gmail.com
-
-🤖 Discord: Yurany#2073
-  
    ## Stats
 
   <a href="https://github.com/YuranyUlchur">
