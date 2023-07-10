@@ -11,9 +11,9 @@
   I love to learn and I am really passionate about what I like.💖
 ## Contact📩
 
-[![Twitter](https://twitter.com/YuranyUlchur)
-[![Discord](https://discord.com/users/758403009087799348)
-[![LinkedIn](https://www.linkedin.com/in/yuranyulchur/)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YuranyUlchur)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/758403009087799348)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuranyulchur/)
 
    ## Stats
 
