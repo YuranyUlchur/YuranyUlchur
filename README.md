@@ -7,8 +7,8 @@
 
 
 
-## I am just starting in this world of programming and development👩🏽‍💻
-  I love to learn and I am really passionate about what I like.💖
+## Welcome to my repositorio👩🏽‍💻
+  where every line of code is a spark of creativity.⚡💻
 ## Contact📩
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YuranyUlchur)
